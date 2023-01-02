@@ -30,6 +30,9 @@ class CardWidgetUi extends StatelessWidget {
                 const SizedBox(
                   width: 10,
                 ),
+                SizedBox(
+                  height: 2,
+                ),
                 Container(
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
